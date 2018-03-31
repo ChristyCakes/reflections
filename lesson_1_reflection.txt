@@ -1,0 +1,60 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+    Fill in your answer here
+
+
+
+Using FC old_file new_file was an easy way to see differences because the command line lists them in sections
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+This could help tremendously in fixing errors or making new versions more efficient.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Automatic saving sounds safest. Choosing when might be good way to keep track of changes better in your memory.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+ files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+
+
+Saving multiple files is important when the files are related or depend on each other. Changing one will change the other, so you'd need information from the others as well, even if they weren't changed.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+Git log shows all committs (changes). Git diff compares two specific commits.
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer 
+here
+
+You have the freedom to break something because there's always an old version you can go back to.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+pycharm projects
