@@ -5,32 +5,39 @@ git init initializes it, creating a repository without any commits even if there
 
 
 How is the staging area different from the working directory and the repository?
-
+it is an intermediate area between the two
 
 
 
 What value do you think it offers?
-
+It allows you to check git status before and after committing to keep track of what's in each directory,area, and repository
 
 
 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+You can use the 'git status' command to see what files you have moved there before making any commits
 
 
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? 
-
+anytime you want to make a change but also keep current version as your main or frequently used alternate
+example: making an alternate version such as in a different language or different difficulty level, trying an experimental feature
 
 
 How would branches help?
+They help by staying organized within git
+They offer versions with different purposes
+They allow you to switch between tasks on a project
+
+
+
 
 How do the diagrams help you visualize the branch structure?
-
+Diagrams help show when branches started to keep work flow organized.
 
 
 
