@@ -43,12 +43,12 @@ Diagrams help show when branches started to keep work flow organized.
 
 
 What is the result of merging two branches together? 
-
+The result is one branch with all changes made included.
 
 
 Why do we represent it in
 the diagram the way we do?
-
+Because drawing 2 lines clarifies that it was a merge, not just another commit
 
 
 
