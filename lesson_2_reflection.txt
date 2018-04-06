@@ -53,5 +53,8 @@ Because drawing 2 lines clarifies that it was a merge, not just another commit
 
 
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
+Automatic merging is quick and easy with one command: git merge branchname (after checking out the branch you want to merge into). 
+But if you're working with others, manual is necessary to choose the correct changes. You'll need more commands: checkout branch, merge, then open the conflict file,
+make changes, save, git status to see 'both modified', git add that file, git status to see 'conflicts resolved',  git commit, then git log to see merge commit.
