@@ -3,3 +3,6 @@ A remote repository provides access to the files from any computer with internet
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may want to pull only certain commits or branches. You may want to work with branches or commits one at a time or in specified groups and pull manually to keep yourself organized.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a repository clone only on GitHub between two users. A clone is a copy of a repository. It can be done from GitHub to local computer, between 2 local computer locations, or from two repositories on GitHub, but it would be called a fork in that case. A branch is a part of the repository that has commits on it. A branch may be used for different users or different tasks on the same project. If you want to work on your own stuff and not share it with the creator, you'd use fork. If you want to work with someone on a project, you'd use clone and/or branches.
