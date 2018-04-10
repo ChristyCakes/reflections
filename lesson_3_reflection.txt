@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 A remote repository provides access to the files from any computer with internet. You may want to use that if you'll be at a different computer or if someone else is working on the project. Or you'd rather store it online for space issues or backup security.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+You may want to pull only certain commits or branches. You may want to work with branches or commits one at a time or in specified groups and pull manually to keep yourself organized.
