@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A remote repository provides access to the files from any computer with internet. You may want to use that if you'll be at a different computer or if someone else is working on the project. Or you'd rather store it online for space issues or backup security.
